@@ -1,0 +1,4 @@
+"listenerToken": "", (Hangi url lere sniper kuracaksanız o hesabınızla o sunuculara girin o sunuculara girdiğiniz hesabınızın tokeni)
+"sniperToken": "", (Url düşünce çekilecek sunucudaki yt si olan hesap)
+"sniperGuild": "", (Sniper sunucunuz yani url çekilecek sunucu id niz)
+"infoChannelId": "" (Log id si yani sniper sunucunuzdaki url alındı alınmadı yazacağı kanal id) }
